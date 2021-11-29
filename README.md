@@ -1,6 +1,5 @@
 # cyber-group-one
-
-# Project Final Exams Subject System Security Class 5G. 
+Project Final Exams Subject System Security Class 5G. 
 
 # Our Supervisor 
 Mr. Purwantoro, M.Kom. 
