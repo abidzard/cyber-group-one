@@ -1,3 +1,9 @@
 # cyber-group-one
 
-Project Final Exams Subject System Security Class 5G. Our Supervisor is Mr. Purwantoro, M.Kom. And Our all best team is RIZQY ARYA PRATAMA, MOHAMAD ALDA, SABAR RENDY SAMUEL SILALAHI, M YAZID ZIDANE, LIDYA NURHIDAYATI, RIZQI NUR KARIMAH, MARUF IDHAR SAFAWI, ABIDZARD LINTANG ADHIASTA, MUHAMMAD FAIZ BACHRUL AKBAR, ADITHIA FAHRI PAHRUDIN, YURIKE OKTAVIRANI, AGUS IBRAHIM, RIZQI MUHAMMAD KHATAMI SANDI  and NAUFALDI MAHARDIKA. 
+# Project Final Exams Subject System Security Class 5G. 
+
+# Our Supervisor 
+Mr. Purwantoro, M.Kom. 
+
+# Our All Team
+ABIDZARD(abidzard), RIZQY, ALDA, RENDY(rendysilalahi), ZIDANE(InMyDreamyz ), LIDYA(Yalcee), RIZQI(mksdesuyo), MARUF(royceroy20 ), FAIZ(Faarnowar), FAHRI , YURIKE(Yurike7), AGUS, RIZQI and NAUFALDI MAHARDIKA(NobbleAgent57). 
