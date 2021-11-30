@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://tenor.com/">
-    <img src="https://tenor.com/view/anime-welcome-youre-welcome-gif-13984218"/>
+    <img src="https://c.tenor.com/9KSO758KczwAAAAC/anime-welcome.gif"/>
   </a>
 </p>
 
