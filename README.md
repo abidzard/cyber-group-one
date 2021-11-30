@@ -13,4 +13,5 @@ Cyber Group One is a Project for Final Exams Subject System Security Class 5G. W
 Mr. Purwantoro, M.Kom. 
 
 # Our All Team
-`Abidzard Lintang Adhiasta [abidzard](https://github.com/abidzard/)`, Rizqy Nur Karimah(Rizqinrk), Mohamad Alda(malda69), Sabar Rendy Samuel Silalahi(rendysilalahi), M Yazid Zidane(InMyDreamyz), Lidya Nurhidayati(Yalcee), Rizqy Muhammad Khatami Sandi(mksdesuyo), Maruf Idhar Safawi(royceroy20 ), Muhammad Faiz Bachrul Akbar(Faarnowar), Adithia Fahri Pahrudin(AditFahrP), Yurike Oktavirani(Yurike7), Agus Ibrahim, and Naufaldi Mahardika(NobbleAgent57).
+`Abidzard Lintang Adhiasta` [abidzard](https://github.com/abidzard/), 
+`Rizqy Nur Karimah` [Rizqinrk]((https://github.com/Rizqinrk), Mohamad Alda(malda69), Sabar Rendy Samuel Silalahi(rendysilalahi), M Yazid Zidane(InMyDreamyz), Lidya Nurhidayati(Yalcee), Rizqy Muhammad Khatami Sandi(mksdesuyo), Maruf Idhar Safawi(royceroy20 ), Muhammad Faiz Bachrul Akbar(Faarnowar), Adithia Fahri Pahrudin(AditFahrP), Yurike Oktavirani(Yurike7), Agus Ibrahim, and Naufaldi Mahardika(NobbleAgent57).
