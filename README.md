@@ -10,8 +10,7 @@
 Cyber Group One is a Project for Final Exams Subject System Security Class 5G. We build the system, we share with other groups doing penetration testing to the system that we have created. We also use the Github Version Control System to share and contribute to our project.
 
 # Our Supervisor 
-Mr. Purwantoro, M.Kom. 
+`Mr. Purwantoro, M.Kom.`
 
 # Our All Team
-`Abidzard Lintang Adhiasta` [abidzard](https://github.com/abidzard/), 
-`Rizqy Nur Karimah` [Rizqinrk]((https://github.com/Rizqinrk), Mohamad Alda(malda69), Sabar Rendy Samuel Silalahi(rendysilalahi), M Yazid Zidane(InMyDreamyz), Lidya Nurhidayati(Yalcee), Rizqy Muhammad Khatami Sandi(mksdesuyo), Maruf Idhar Safawi(royceroy20 ), Muhammad Faiz Bachrul Akbar(Faarnowar), Adithia Fahri Pahrudin(AditFahrP), Yurike Oktavirani(Yurike7), Agus Ibrahim, and Naufaldi Mahardika(NobbleAgent57).
+[abidzard](https://github.com/abidzard/) `Abidzard Lintang Adhiasta` [Rizqinrk](https://github.com/Rizqinrk) `Rizqy Nur Karimah` [malda69](https://github.com/malda69) `Mohamad Alda`, [rendysilalahi](https://github.com/rendysilalahi) `Sabar Rendy Samuel Silalahi` [InMyDreamyz](https://github.com/InMyDreamyz) ` M Yazid Zidane` [Yalcee](https://github.com/Yalcee) `Lidya Nurhidayati` [mksdesuyo](https://github.com/mksdesuyo) `Rizqy Muhammad Khatami Sandi` [royceroy20](https://github.com/royceroy20) `Maruf Idhar Safawi`, [Faarnowar](https://github.com/Faarnowar) `Muhammad Faiz Bachrul Akbar` [AditFahrP](https://github.com/AditFahrP) `Adithia Fahri Pahrudin` [Yurike7](https://github.com/Yurike7) `Yurike Oktavirani` Agus Ibrahim and [NobbleAgent57](https://github.com/NobbleAgent57) `Naufaldi Mahardika`.
