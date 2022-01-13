@@ -16,7 +16,7 @@ Cyber Group One is a Project for Final Exams Subject System Security Class 5G. W
 [abidzard](https://github.com/abidzard/) `Abidzard Lintang Adhiasta` | [mksdesuyo](https://github.com/mksdesuyo) `Rizqi Muhammad Khatami Sandi` | [rapsman](https://github.com/rapsman) `Rizqy Arya Pratama` | [malda69](https://github.com/malda69) `Mohamad Alda` | [Rizqinrk](https://github.com/Rizqinrk) `Rizqi Nur Karimah` | [rendysilalahi](https://github.com/rendysilalahi) `Sabar Rendy Samuel Silalahi` | [InMyDreamyz](https://github.com/InMyDreamyz) ` M Yazid Zidane` | [Yalcee](https://github.com/Yalcee) `Lidya Nurhidayati` | [royceroy20](https://github.com/royceroy20) `Maruf Idhar Safawi` | [Faarnowar](https://github.com/Faarnowar) `Muhammad Faiz Bachrul Akbar` | [AditFahrP](https://github.com/AditFahrP) `Adithia Fahri Pahrudin` | [Yurike7](https://github.com/Yurike7) `Yurike Oktavirani` | Agus Ibrahim | [NobbleAgent57](https://github.com/NobbleAgent57) `Naufaldi Mahardika`.
 
 # What we're create?
-We are creating web-based system using Flask 2.0.2 | [Check Out Here!](https://heroku.app/)
+We are creating web-based system using Flask 2.0.2 | [Check Out Here!](https://securityflask.herokuapp.com/)
 
 # What is Flask
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions
