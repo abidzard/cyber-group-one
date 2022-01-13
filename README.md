@@ -17,3 +17,10 @@ Cyber Group One is a Project for Final Exams Subject System Security Class 5G. W
 
 # What we're create?
 We are creating web-based system using Flask 2.0.2
+[Check Out Here!](https://heroku.app/)
+
+# What is Flask
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions
+
+# What's on Security System
+We are using library form Bcrypt and using Bcrypt Hashing for securing password.
